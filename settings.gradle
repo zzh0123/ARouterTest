@@ -1,0 +1,4 @@
+include ':app',
+        ':commonModule:myLibrary',
+        ':baseModule:baseLibrary'
+rootProject.name='ARouterTest'
